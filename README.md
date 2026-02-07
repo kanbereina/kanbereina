@@ -4,7 +4,7 @@
 - 💪 I’m **skilled in developing chatbots based on [NoneBot2](https://nonebot.dev/)**
 - 🎵 I’m **a fan of [Singer Kano](https://x.com/kano_2525)**
 
-## 🌟My Skills
+## ✨My Skills
 
 ![skills](https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,c,go,ps,ai,ae,au,clion,pycharm,webstorm,,windows,linux,debian&perline=8)
 
