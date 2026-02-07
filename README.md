@@ -2,7 +2,7 @@
 
 - 🌱 I’m **currently learning：C++, Go, JavaScript/TypeScript**
 - 💪 I’m **skilled in developing chatbots based on [NoneBot2](https://nonebot.dev/)**
-- 🎵 I’m **a fan of [Kano](https://x.com/kano_2525)**.
+- 🎵 I’m **a fan of [Singer Kano](https://x.com/kano_2525)**.
 
 ## Programming Language
 
