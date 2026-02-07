@@ -1,16 +1,15 @@
-## Hi there 👋
+# About
 
-<!--
-**kanbereina/kanbereina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+你好，这里是 **`KanbeReina`** ，一名普通的[小鹿包](https://space.bilibili.com/316381099)。
 
-Here are some ideas to get you started:
+## Programming Language
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![skills](https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,c,go&perline=4)
+
+## Operating Systems & Editors
+
+![skills](https://skillicons.dev/icons?i=windows,clion,pycharm,webstorm)
+
+## Other Skills
+
+![skills](https://skillicons.dev/icons?i=ps,ai,ae,au)
