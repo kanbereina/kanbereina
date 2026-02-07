@@ -6,20 +6,15 @@
 - 🎵 I’m **a fan of [Singer Kano](https://x.com/kano_2525)**.
 
 
-## Programming Language
+## 🌏Programming Language
 
 ![skills](https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,c,go&perline=4)
 
+## 🌟My Skills
 
-## Operating Systems & Editors
+![skills](https://skillicons.dev/icons?i=ps,ai,ae,au,clion,pycharm,webstorm,,windows,linux,debian&perline=4)
 
-![skills](https://skillicons.dev/icons?i=windows,clion,pycharm,webstorm)
-
-
-## Other Skills
-
-![skills](https://skillicons.dev/icons?i=ps,ai,ae,au,linux,debian&perline=4)
-
+---
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
