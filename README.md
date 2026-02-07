@@ -2,8 +2,8 @@
 
 - 🌱 I’m **currently learning：C++, Go, JavaScript/TypeScript**
 - 💪 I’m **skilled in developing chatbots based on [NoneBot2](https://nonebot.dev/)**
-- 🎵 I’m **a fan of [Singer Kano](https://x.com/kano_2525)**.
-- 
+- 🎵 I’m **a fan of [Singer Kano](https://x.com/kano_2525)**
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg" />
