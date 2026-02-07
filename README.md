@@ -12,4 +12,4 @@
 
 ## Other Skills
 
-![skills](https://skillicons.dev/icons?i=ps,ai,ae,au)
+![skills](https://skillicons.dev/icons?i=ps,ai,ae,au,linux,debian&perline=4)
