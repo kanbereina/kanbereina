@@ -17,9 +17,9 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-366%20hrs%2030%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-651.09%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-664.28%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,17 +27,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 7 mins        ████████████████████████░   95.69 % 
-TOML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-GitExclude file          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Python                   5 hrs 4 mins        ██████████████████████░░░   88.33 % 
+TOML                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+GitExclude file          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-PyCharm                  4 hrs 18 mins       █████████████████████████   100.00 % 
+PyCharm                  5 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -51,5 +51,5 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 2026-02-08 02:55:53 UTC
+ Last Updated on 2026-02-09 02:40:54 UTC
 <!--END_SECTION:waka-->
