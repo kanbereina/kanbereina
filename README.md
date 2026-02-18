@@ -17,9 +17,9 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-381%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-387%20hrs%208%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-784.24%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-784.79%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,17 +27,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   13 hrs 32 mins      ███████████████████████░░   90.65 % 
-TOML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-.env file                19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Python                   17 hrs 9 mins       ████████████████████████░   94.02 % 
+TOML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+.env file                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-PyCharm                  14 hrs 56 mins      █████████████████████████   100.00 % 
+PyCharm                  18 hrs 14 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  14 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -51,5 +51,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-02-17 02:35:18 UTC
+ Last Updated on 2026-02-18 02:39:04 UTC
 <!--END_SECTION:waka-->
