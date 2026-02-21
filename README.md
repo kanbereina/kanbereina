@@ -17,9 +17,9 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-404%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-398%20hrs%2057%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-785.34%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-788.23%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,17 +27,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   19 hrs 57 mins      ████████████████████████░   94.60 % 
-TOML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-.env file                21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Python                   23 hrs 56 mins      ████████████████████████░   97.33 % 
+TOML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+.env file                15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-PyCharm                  21 hrs 5 mins       █████████████████████████   100.00 % 
+PyCharm                  24 hrs 35 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  21 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  24 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -51,5 +51,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-02-20 09:42:28 UTC
+ Last Updated on 2026-02-21 02:27:09 UTC
 <!--END_SECTION:waka-->
