@@ -21,6 +21,25 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-965.15%20thousand%20lines%20of%20code-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   24 hrs 1 min        ████████████████████████░   94.01 % 
+TOML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+.env file                16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+PyCharm                  25 hrs 33 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  25 hrs 33 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -32,5 +51,5 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 2026-03-03 16:50:33 UTC
+ Last Updated on 2026-03-03 16:53:04 UTC
 <!--END_SECTION:waka-->
