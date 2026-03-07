@@ -17,7 +17,7 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-442%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-442%20hrs%2040%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-965.53%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -27,17 +27,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   26 hrs 12 mins      ███████████████████████░░   93.36 % 
-TOML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-.env file                30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Python                   23 hrs 36 mins      ███████████████████████░░   92.89 % 
+TOML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+.env file                27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-PyCharm                  28 hrs 4 mins       █████████████████████████   100.00 % 
+PyCharm                  25 hrs 25 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  28 hrs 4 mins       █████████████████████████   100.00 % 
+Windows                  25 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -51,5 +51,5 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 2026-03-06 02:30:51 UTC
+ Last Updated on 2026-03-07 02:24:25 UTC
 <!--END_SECTION:waka-->
