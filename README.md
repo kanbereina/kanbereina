@@ -27,17 +27,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 28 mins       ███████████████████████░░   93.82 % 
-.env file                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-TOML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Python                   2 hrs 46 mins       ██████████████████████░░░   89.11 % 
+.env file                13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-PyCharm                  7 hrs 57 mins       █████████████████████████   100.00 % 
+PyCharm                  3 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -51,5 +51,5 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 2026-03-10 02:29:06 UTC
+ Last Updated on 2026-03-11 02:28:14 UTC
 <!--END_SECTION:waka-->
