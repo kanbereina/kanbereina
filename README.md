@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-445%20hrs%2025%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-966.64%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-971.58%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,27 +27,29 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 23 mins       ████████████████████████░   96.31 % 
-TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Python                   4 hrs 15 mins       ██████████████████████░░░   87.56 % 
+TOML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 28 mins       █████████████████████████   100.00 % 
+PyCharm                  4 hrs 51 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             █████████████████░░░░░░░░   66.67 % 
-CSS                      2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Python                   7 repos             ██████████████████░░░░░░░   70.00 % 
+CSS                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 
 
 
- Last Updated on 2026-03-14 02:30:24 UTC
+ Last Updated on 2026-03-15 02:50:45 UTC
 <!--END_SECTION:waka-->
