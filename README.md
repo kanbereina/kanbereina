@@ -17,9 +17,9 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2023%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-975.95%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.07%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,29 +27,31 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 26 mins       ██████████████████████░░░   88.31 % 
-TOML                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Python                   5 hrs 16 mins       █████████████████░░░░░░░░   67.55 % 
+TOML                     2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+C/C++                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🔥 Editors: 
-PyCharm                  8 hrs 25 mins       █████████████████████████   100.00 % 
+PyCharm                  7 hrs 42 mins       █████████████████████████   98.78 % 
+CLion                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 💻 Operating System: 
-Windows                  8 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ██████████████████░░░░░░░   70.00 % 
-CSS                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Python                   7 repos             ████████████████░░░░░░░░░   63.64 % 
+CSS                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
 
 
- Last Updated on 2026-03-18 02:40:44 UTC
+ Last Updated on 2026-03-19 02:41:54 UTC
 <!--END_SECTION:waka-->
