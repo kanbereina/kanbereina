@@ -17,9 +17,9 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-454%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-455%20hrs%207%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.14%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.15%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,31 +27,31 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 20 mins       ██████████████░░░░░░░░░░░   55.18 % 
-TOML                     2 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   29.87 % 
-C                        39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-GitIgnore file           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Python                   3 hrs 45 mins       ███████████░░░░░░░░░░░░░░   45.09 % 
+TOML                     2 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   35.72 % 
+C                        39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+GitIgnore file           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 🔥 Editors: 
-PyCharm                  8 hrs 53 mins       ███████████████████████░░   91.81 % 
-CLion                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+PyCharm                  7 hrs 30 mins       ███████████████████████░░   90.30 % 
+CLion                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
 
 💻 Operating System: 
-Windows                  9 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   8 repos             █████████████████░░░░░░░░   66.67 % 
-CSS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Python                   9 repos             █████████████████░░░░░░░░   69.23 % 
+CSS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
 
 
- Last Updated on 2026-03-21 02:27:18 UTC
+ Last Updated on 2026-03-22 02:42:44 UTC
 <!--END_SECTION:waka-->
