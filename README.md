@@ -17,7 +17,7 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%2019%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.15%20million%20lines%20of%20code-blue?style=flat)
 
@@ -27,19 +27,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TOML                     2 hrs 43 mins       ██████████████░░░░░░░░░░░   55.28 % 
-C                        39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Python                   33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-C#                       11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+TOML                     1 hr 15 mins        ██████████░░░░░░░░░░░░░░░   38.44 % 
+C                        39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Python                   30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+C#                       11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 56 mins       ████████████████████░░░░░   79.82 % 
-CLion                    48 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Rider                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+PyCharm                  2 hrs 21 mins       ██████████████████░░░░░░░   72.35 % 
+CLion                    42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
+Rider                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 
 💻 Operating System: 
-Windows                  4 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -54,5 +54,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-03-25 02:39:49 UTC
+ Last Updated on 2026-03-26 02:46:57 UTC
 <!--END_SECTION:waka-->
