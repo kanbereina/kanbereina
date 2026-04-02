@@ -27,19 +27,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       30 mins             ████████████████░░░░░░░░░   65.09 % 
-Python                   12 mins             ███████░░░░░░░░░░░░░░░░░░   26.52 % 
-Java                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+C#                       30 mins             ██████████████████░░░░░░░   73.64 % 
+Python                   7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Java                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 .env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Rider                    30 mins             ████████████████░░░░░░░░░   65.09 % 
-PyCharm                  12 mins             ███████░░░░░░░░░░░░░░░░░░   27.04 % 
-IntelliJ IDEA            3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Rider                    30 mins             ██████████████████░░░░░░░   73.64 % 
+PyCharm                  7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+IntelliJ IDEA            3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
 
 💻 Operating System: 
-Windows                  47 mins             █████████████████████████   100.00 % 
+Windows                  41 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -54,5 +54,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-04-01 03:18:29 UTC
+ Last Updated on 2026-04-02 02:44:47 UTC
 <!--END_SECTION:waka-->
