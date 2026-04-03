@@ -27,19 +27,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       30 mins             ██████████████████░░░░░░░   73.64 % 
-Python                   7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Java                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Rider                    30 mins             ██████████████████░░░░░░░   73.64 % 
-PyCharm                  7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-IntelliJ IDEA            3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -54,5 +48,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-04-02 02:44:47 UTC
+ Last Updated on 2026-04-03 02:47:18 UTC
 <!--END_SECTION:waka-->
