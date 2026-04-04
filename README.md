@@ -27,13 +27,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   11 hrs 38 mins      ██████████████████████░░░   89.54 % 
+TOML                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  12 hrs 59 mins      █████████████████████████   99.93 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  12 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -48,5 +53,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-04-03 02:47:18 UTC
+ Last Updated on 2026-04-04 02:37:19 UTC
 <!--END_SECTION:waka-->
