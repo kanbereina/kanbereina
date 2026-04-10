@@ -17,7 +17,7 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-460%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-462%20hrs%2037%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.15%20million%20lines%20of%20code-blue?style=flat)
 
@@ -27,20 +27,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 29 mins       █████████████████░░░░░░░░   67.13 % 
-JavaScript               1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-RPMSpec                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-TOML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Python                   2 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   38.16 % 
+JavaScript               1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   30.21 % 
+JSON                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+RPMSpec                  25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+C#                       14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 
 🔥 Editors: 
-PyCharm                  8 hrs 17 mins       ███████████████████░░░░░░   74.31 % 
-WebStorm                 2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
-Rider                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+PyCharm                  2 hrs 45 mins       ████████████░░░░░░░░░░░░░   48.98 % 
+WebStorm                 2 hrs 36 mins       ████████████░░░░░░░░░░░░░   46.45 % 
+Rider                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Windows                  11 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -55,5 +55,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-04-09 02:45:51 UTC
+ Last Updated on 2026-04-10 02:57:25 UTC
 <!--END_SECTION:waka-->
