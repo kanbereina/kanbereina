@@ -27,20 +27,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 2 mins        █████████████░░░░░░░░░░░░   52.29 % 
-JavaScript               1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
-RPMSpec                  25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-C#                       16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Python                   3 hrs 8 mins        ████████████░░░░░░░░░░░░░   48.27 % 
+JavaScript               1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+Vue.js                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+RPMSpec                  25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+TOML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 43 mins       ████████████████░░░░░░░░░   63.86 % 
-WebStorm                 1 hr 45 mins        ████████░░░░░░░░░░░░░░░░░   30.11 % 
-Rider                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-IntelliJ IDEA            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+PyCharm                  4 hrs               ███████████████░░░░░░░░░░   61.60 % 
+WebStorm                 2 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   33.01 % 
+Rider                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+IntelliJ IDEA            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 💻 Operating System: 
-Windows                  5 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -55,5 +55,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-04-13 03:26:39 UTC
+ Last Updated on 2026-04-14 02:58:20 UTC
 <!--END_SECTION:waka-->
