@@ -27,20 +27,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 28 mins       ████████████░░░░░░░░░░░░░   49.28 % 
-TOML                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Vue                      38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Java                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Python                   2 hrs 22 mins       ████████████████░░░░░░░░░   65.95 % 
+TOML                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Java                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+C/C++                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 10 mins       ████████████████░░░░░░░░░   63.33 % 
-WebStorm                 1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-IntelliJ IDEA            27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-CLion                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+PyCharm                  2 hrs 53 mins       ████████████████████░░░░░   80.13 % 
+IntelliJ IDEA            27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+CLion                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
 
 💻 Operating System: 
-Windows                  5 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  3 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -55,5 +54,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-04-20 03:27:03 UTC
+ Last Updated on 2026-04-21 03:18:48 UTC
 <!--END_SECTION:waka-->
