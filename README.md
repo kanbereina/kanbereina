@@ -17,7 +17,7 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-469%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-473%20hrs%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.15%20million%20lines%20of%20code-blue?style=flat)
 
@@ -27,21 +27,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      2 hrs 39 mins       ████████████░░░░░░░░░░░░░   49.58 % 
-JSON                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Python                   33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-C++                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-C#                       18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Vue                      2 hrs 39 mins       ████████████░░░░░░░░░░░░░   49.29 % 
+JSON                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Python                   33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+C++                      28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+C#                       18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 
 🔥 Editors: 
-WebStorm                 2 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   40.84 % 
-Unknown Editor           1 hr 30 mins        ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-PyCharm                  55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-CLion                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Rider                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+WebStorm                 2 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   40.60 % 
+Unknown Editor           1 hr 30 mins        ███████░░░░░░░░░░░░░░░░░░   27.90 % 
+PyCharm                  55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+CLion                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Rider                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 
 💻 Operating System: 
-Windows                  5 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -56,5 +56,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-04-25 02:52:02 UTC
+ Last Updated on 2026-04-26 03:29:49 UTC
 <!--END_SECTION:waka-->
