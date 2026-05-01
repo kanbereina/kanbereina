@@ -27,21 +27,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      1 hr 26 mins        █████████░░░░░░░░░░░░░░░░   35.90 % 
-JSON                     43 mins             █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-Python                   33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-C++                      28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-C#                       18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Vue                      1 hr 26 mins        ██████████░░░░░░░░░░░░░░░   38.85 % 
+JSON                     43 mins             █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+Python                   33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+C++                      28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 🔥 Editors: 
-Unknown Editor           1 hr 30 mins        █████████░░░░░░░░░░░░░░░░   37.58 % 
-WebStorm                 58 mins             ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
-PyCharm                  44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-CLion                    28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Rider                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Unknown Editor           1 hr 30 mins        ██████████░░░░░░░░░░░░░░░   40.67 % 
+WebStorm                 58 mins             ███████░░░░░░░░░░░░░░░░░░   26.40 % 
+PyCharm                  44 mins             █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+CLion                    28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
 
 💻 Operating System: 
-Windows                  4 hrs               █████████████████████████   100.00 % 
+Windows                  3 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -56,5 +55,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-04-30 03:38:10 UTC
+ Last Updated on 2026-05-01 03:50:54 UTC
 <!--END_SECTION:waka-->
