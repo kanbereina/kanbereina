@@ -27,20 +27,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      1 hr 26 mins        ██████████░░░░░░░░░░░░░░░   38.85 % 
-JSON                     43 mins             █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Python                   33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-C++                      28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Python                   48 mins             ███████████░░░░░░░░░░░░░░   43.16 % 
+JSON                     23 mins             █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+.env file                13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+JavaScript               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 
 🔥 Editors: 
-Unknown Editor           1 hr 30 mins        ██████████░░░░░░░░░░░░░░░   40.67 % 
-WebStorm                 58 mins             ███████░░░░░░░░░░░░░░░░░░   26.40 % 
-PyCharm                  44 mins             █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-CLion                    28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+PyCharm                  1 hr 12 mins        ████████████████░░░░░░░░░   64.70 % 
+Unknown Editor           29 mins             ███████░░░░░░░░░░░░░░░░░░   26.49 % 
+WebStorm                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+CLion                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 💻 Operating System: 
-Windows                  3 hrs 42 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -55,5 +55,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-05-01 03:50:54 UTC
+ Last Updated on 2026-05-02 03:24:01 UTC
 <!--END_SECTION:waka-->
