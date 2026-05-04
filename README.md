@@ -17,7 +17,7 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-479%20hrs%2039%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.45%20million%20lines%20of%20code-blue?style=flat)
 
@@ -27,19 +27,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 7 mins        ████████████████████░░░░░   79.68 % 
-JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-.env file                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Python                   5 hrs 32 mins       █████████████████████░░░░   82.20 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+.env file                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 🔥 Editors: 
-PyCharm                  5 hrs 28 mins       █████████████████████░░░░   85.04 % 
-Unknown Editor           49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-WebStorm                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+PyCharm                  5 hrs 55 mins       ██████████████████████░░░   87.69 % 
+Unknown Editor           49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
 
 💻 Operating System: 
-Windows                  6 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -54,5 +53,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-05-03 03:42:33 UTC
+ Last Updated on 2026-05-04 03:40:16 UTC
 <!--END_SECTION:waka-->
