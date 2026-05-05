@@ -17,7 +17,7 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-479%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.45%20million%20lines%20of%20code-blue?style=flat)
 
@@ -27,18 +27,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 32 mins       █████████████████████░░░░   82.20 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-.env file                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Python                   5 hrs 33 mins       █████████████████░░░░░░░░   69.65 % 
+Vue                      50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+CSS                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+.env file                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 
 🔥 Editors: 
-PyCharm                  5 hrs 55 mins       ██████████████████████░░░   87.69 % 
-Unknown Editor           49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+PyCharm                  5 hrs 55 mins       ███████████████████░░░░░░   74.28 % 
+Unknown Editor           2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
 
 💻 Operating System: 
-Windows                  6 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -53,5 +53,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-05-04 03:40:16 UTC
+ Last Updated on 2026-05-05 03:27:17 UTC
 <!--END_SECTION:waka-->
