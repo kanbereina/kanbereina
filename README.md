@@ -27,18 +27,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 33 mins       █████████████████░░░░░░░░   69.65 % 
-Vue                      50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-CSS                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-.env file                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Python                   5 hrs 50 mins       █████████████████████░░░░   82.47 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+.env file                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🔥 Editors: 
-PyCharm                  5 hrs 55 mins       ███████████████████░░░░░░   74.28 % 
-Unknown Editor           2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
+PyCharm                  6 hrs 15 mins       ██████████████████████░░░   88.26 % 
+Unknown Editor           49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
 
 💻 Operating System: 
-Windows                  7 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -53,5 +53,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-05-06 03:37:50 UTC
+ Last Updated on 2026-05-07 03:37:14 UTC
 <!--END_SECTION:waka-->
