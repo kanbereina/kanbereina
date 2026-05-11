@@ -27,19 +27,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 47 mins       █████████████████████░░░░   82.16 % 
-PythonStub               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Java                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Python                   3 hrs 41 mins       ████████████████████░░░░░   79.53 % 
+PythonStub               30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Java                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 10 mins       ███████████████████████░░   93.64 % 
-IntelliJ IDEA            12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+PyCharm                  4 hrs 17 mins       ███████████████████████░░   92.25 % 
+IntelliJ IDEA            12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Unknown Editor           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 CLion                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  3 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -54,5 +55,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-05-10 03:45:14 UTC
+ Last Updated on 2026-05-11 03:58:41 UTC
 <!--END_SECTION:waka-->
