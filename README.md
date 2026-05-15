@@ -17,31 +17,7 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-486%20hrs%2019%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.45%20million%20lines%20of%20code-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   5 hrs 14 mins       █████████████████████░░░░   84.11 % 
-PythonStub               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Java                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-
-🔥 Editors: 
-PyCharm                  5 hrs 52 mins       ████████████████████████░   94.22 % 
-IntelliJ IDEA            12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-Unknown Editor           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-CLion                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-💻 Operating System: 
-Windows                  6 hrs 14 mins       █████████████████████████   100.00 % 
-```
 
 **I Mostly Code in Python** 
 
@@ -55,5 +31,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-05-14 03:50:28 UTC
+ Last Updated on 2026-05-15 03:53:56 UTC
 <!--END_SECTION:waka-->
