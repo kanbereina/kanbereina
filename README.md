@@ -17,7 +17,30 @@
 ##
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%2044%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.45%20million%20lines%20of%20code-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   2 hrs 50 mins       ██████████████████████░░░   86.38 % 
+GitIgnore file           12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Java                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+
+🔥 Editors: 
+PyCharm                  2 hrs 47 mins       █████████████████████░░░░   84.63 % 
+IntelliJ IDEA            18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Unknown Editor           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+
+💻 Operating System: 
+Windows                  3 hrs 17 mins       █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in Python** 
 
@@ -31,5 +54,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-05-18 04:06:40 UTC
+ Last Updated on 2026-05-19 04:00:10 UTC
 <!--END_SECTION:waka-->
