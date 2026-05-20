@@ -27,19 +27,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 50 mins       ██████████████████████░░░   86.38 % 
-GitIgnore file           12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-Java                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Python                   1 hr 17 mins        ███████████████████░░░░░░   76.04 % 
+GitIgnore file           12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Java                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 47 mins       █████████████████████░░░░   84.63 % 
-IntelliJ IDEA            18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Unknown Editor           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+PyCharm                  1 hr 11 mins        ██████████████████░░░░░░░   70.31 % 
+IntelliJ IDEA            18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+Unknown Editor           11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
 
 💻 Operating System: 
-Windows                  3 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -54,5 +54,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-05-19 04:00:10 UTC
+ Last Updated on 2026-05-20 04:01:04 UTC
 <!--END_SECTION:waka-->
