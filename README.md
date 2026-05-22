@@ -17,8 +17,6 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%2044%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.45%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -27,19 +25,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 17 mins        ███████████████████░░░░░░   76.04 % 
-GitIgnore file           12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Java                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Python                   1 hr 50 mins        █████████████████░░░░░░░░   68.33 % 
+C#                       17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+GitIgnore file           12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Java                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 11 mins        ██████████████████░░░░░░░   70.31 % 
-IntelliJ IDEA            18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-Unknown Editor           11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+PyCharm                  1 hr 53 mins        ██████████████████░░░░░░░   70.32 % 
+IntelliJ IDEA            18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Rider                    17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Claude Code              11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
 
 💻 Operating System: 
-Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -54,5 +53,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-05-21 04:10:33 UTC
+ Last Updated on 2026-05-22 04:04:45 UTC
 <!--END_SECTION:waka-->
