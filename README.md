@@ -17,6 +17,8 @@
 ##
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-519%20hrs%2015%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.49%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -25,19 +27,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 53 mins       ████████████████░░░░░░░░░   64.02 % 
-JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-TOML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Java                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-C#                       17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Python                   2 hrs 55 mins       ████████████████░░░░░░░░░   63.65 % 
+JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+TOML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Java                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+C#                       17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 49 mins       █████████████████████░░░░   84.64 % 
-IntelliJ IDEA            24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Rider                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+PyCharm                  3 hrs 54 mins       █████████████████████░░░░   84.91 % 
+IntelliJ IDEA            24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Rider                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 
 💻 Operating System: 
-Windows                  4 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -52,5 +54,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-05-23 03:41:37 UTC
+ Last Updated on 2026-05-24 04:04:00 UTC
 <!--END_SECTION:waka-->
