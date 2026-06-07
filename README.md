@@ -17,9 +17,7 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-547%20hrs%2054%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.50%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.51%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,21 +25,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Docker                   2 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-Python                   2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
-C#                       1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-TOML                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Python                   4 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   38.94 % 
+Docker                   2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+C#                       1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Markdown                 1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+TOML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 
 🔥 Editors: 
-PyCharm                  6 hrs 5 mins        ██████████████████░░░░░░░   73.58 % 
-Rider                    1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-IntelliJ IDEA            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Claude Code              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-CLion                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+PyCharm                  9 hrs 49 mins       ███████████████████░░░░░░   77.65 % 
+Rider                    1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Claude Code              29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+GoLand                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+IntelliJ IDEA            14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 💻 Operating System: 
-Windows                  8 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -56,5 +54,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-06-06 03:55:42 UTC
+ Last Updated on 2026-06-07 04:21:40 UTC
 <!--END_SECTION:waka-->
