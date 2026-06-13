@@ -27,20 +27,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 54 mins       ████████████████░░░░░░░░░   62.85 % 
-Markdown                 1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-C#                       27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Go                       18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-TOML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Python                   3 hrs 22 mins       ████████████████████░░░░░   80.00 % 
+C#                       29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+TOML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+C++                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Docker                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🔥 Editors: 
-PyCharm                  5 hrs 7 mins        █████████████████████░░░░   82.26 % 
-Rider                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Claude Code              19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-GoLand                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+PyCharm                  3 hrs 39 mins       ██████████████████████░░░   86.58 % 
+Rider                    30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+CLion                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 💻 Operating System: 
-Windows                  6 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -55,5 +54,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-06-12 04:24:58 UTC
+ Last Updated on 2026-06-13 04:13:43 UTC
 <!--END_SECTION:waka-->
