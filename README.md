@@ -12,7 +12,7 @@
 
 ## ✨My Skills
 
-![skills](https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,c,go,ps,ai,ae,au,clion,pycharm,webstorm,idea,windows,linux,debian,docker&perline=8)
+![skills](https://go-skill-icons.vercel.app/api/icons?i=python,js,ts,html,css,cpp,c,go,ps,ai,ae,au,clion,pycharm,webstorm,idea,windows,linux,debian,docker,,,,,claude,deepseek,chatgpt&perline=8)
 
 ##
 
