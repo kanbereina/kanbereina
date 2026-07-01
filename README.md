@@ -17,7 +17,7 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-602%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-217.96%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -27,18 +27,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 6 mins        ███████████░░░░░░░░░░░░░░   43.59 % 
-Markdown                 2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-TOML                     2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-Text                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Python                   5 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   41.64 % 
+Markdown                 2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+TOML                     2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+Text                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 24 mins       ███████████████░░░░░░░░░░   60.02 % 
-PyCharm                  5 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   39.98 % 
+Claude Code              8 hrs 24 mins       ████████████████░░░░░░░░░   62.10 % 
+PyCharm                  5 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   37.90 % 
 
 💻 Operating System: 
-Windows                  13 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -53,5 +53,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-06-30 04:02:15 UTC
+ Last Updated on 2026-07-01 04:18:19 UTC
 <!--END_SECTION:waka-->
