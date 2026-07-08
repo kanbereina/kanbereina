@@ -17,7 +17,7 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-617%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-619%20hrs%208%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-199.11%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -27,32 +27,33 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   10 hrs 8 mins       ███████████████░░░░░░░░░░   59.98 % 
-Markdown                 1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-TOML                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-YAML                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Python                   12 hrs 38 mins      █████████████░░░░░░░░░░░░   50.10 % 
+TOML                     2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Markdown                 2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Docker                   2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Bash                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 15 mins       ██████████████░░░░░░░░░░░   54.79 % 
-PyCharm                  7 hrs 38 mins       ███████████░░░░░░░░░░░░░░   45.21 % 
+Claude Code              13 hrs 42 mins      ██████████████░░░░░░░░░░░   54.33 % 
+PyCharm                  11 hrs 28 mins      ███████████░░░░░░░░░░░░░░   45.46 % 
+Rider                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-Windows                  16 hrs 54 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            ███████████████████░░░░░░   75.00 % 
+Python                   14 repos            ██████████████████░░░░░░░   70.00 % 
 CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
 
 
- Last Updated on 2026-07-07 03:50:13 UTC
+ Last Updated on 2026-07-08 03:17:33 UTC
 <!--END_SECTION:waka-->
