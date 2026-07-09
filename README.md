@@ -17,7 +17,7 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-619%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-627%20hrs%2028%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-199.11%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -27,19 +27,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 hrs 38 mins      █████████████░░░░░░░░░░░░   50.10 % 
-TOML                     2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Markdown                 2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Docker                   2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Bash                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Python                   17 hrs 21 mins      ██████████████░░░░░░░░░░░   54.19 % 
+TOML                     4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Markdown                 2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Docker                   2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Bash                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 42 mins      ██████████████░░░░░░░░░░░   54.33 % 
-PyCharm                  11 hrs 28 mins      ███████████░░░░░░░░░░░░░░   45.46 % 
-Rider                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Claude Code              18 hrs 18 mins      ██████████████░░░░░░░░░░░   57.15 % 
+PyCharm                  13 hrs 40 mins      ███████████░░░░░░░░░░░░░░   42.68 % 
+Rider                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Windows                  25 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  32 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -55,5 +55,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-07-08 03:17:33 UTC
+ Last Updated on 2026-07-09 03:42:12 UTC
 <!--END_SECTION:waka-->
