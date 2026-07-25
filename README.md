@@ -25,19 +25,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   21 hrs 26 mins      ████████████████░░░░░░░░░   65.91 % 
-TOML                     4 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Markdown                 2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-.env file                1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-YAML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Python                   27 hrs 51 mins      █████████████████░░░░░░░░   69.09 % 
+TOML                     5 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Markdown                 2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+.env file                1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+YAML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 54 mins      ███████████░░░░░░░░░░░░░░   45.85 % 
-PyCharm                  12 hrs 16 mins      █████████░░░░░░░░░░░░░░░░   37.74 % 
-Codex CLI                5 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Claude Code              19 hrs 52 mins      ████████████░░░░░░░░░░░░░   49.27 % 
+PyCharm                  15 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   37.39 % 
+Codex CLI                5 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+GoLand                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Windows                  32 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  40 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -53,5 +54,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-07-24 02:58:12 UTC
+ Last Updated on 2026-07-25 02:57:52 UTC
 <!--END_SECTION:waka-->
