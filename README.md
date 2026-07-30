@@ -17,6 +17,10 @@
 ##
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-751%20hrs%2027%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-179%20hrs%2014%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-199.11%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -25,59 +29,61 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   32 hrs 27 mins      ████████████████░░░░░░░░░   65.10 % 
-TOML                     4 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Markdown                 4 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Bash                     2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-YAML                     2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Python                   33 hrs 48 mins      █████████████████░░░░░░░░   66.12 % 
+TOML                     4 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Markdown                 4 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Bash                     2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+YAML                     2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 🔥 Editors: 
-Claude Code              32 hrs 25 mins      ████████████████░░░░░░░░░   65.03 % 
-PyCharm                  14 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   28.16 % 
-Codex CLI                3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Claude Code              34 hrs 41 mins      █████████████████░░░░░░░░   67.85 % 
+PyCharm                  13 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   26.43 % 
+Codex CLI                2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Opencode Cli             18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 GoLand                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Windows                  49 hrs 52 mins      █████████████████████████   100.00 % 
+Windows                  51 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 44 hrs 35 mins (89.43%)
+⏱ AI Coding Time: 46 hrs (89.97%)
 
-✍️ 29,101 lines written by AI, 644 lines written by hand (97.83% AI-written)
+✍️ 27,944 lines written by AI, 1,058 lines written by hand (96.35% AI-written)
 
-🔤 933,592,544 Input Tokens, 3,352,153 Output Tokens
+🔤 899,530,620 Input Tokens, 2,664,127 Output Tokens
 
-💵 $2855.81 Estimated AI Cost This Week
+💵 $2707.63 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 453 AI Prompts
+🧠 66 AI Sessions, 542 AI Prompts
 
-Opus                     13,730 lines        ████████████████████░░░░░   81.65 % 
-GPT                      3,020 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-Sonnet                   65 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Opus                     15,448 lines        █████████████████████████   99.23 % 
+Sonnet                   100 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+GPT                      20 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.83% of written lines came from AI
-📚 Verbose Prompter — average 2,066 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 3.21% of changed lines were hand-edited
+🤖 AI-Driven — 96.35% of written lines came from AI
+📝 Concise Prompter — average 448 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 20.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   16 repos            ██████████████████░░░░░░░   72.73 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Python                   17 repos            ██████████████████░░░░░░░   73.91 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
 
 
- Last Updated on 2026-07-29 02:57:06 UTC
+ Last Updated on 2026-07-30 02:42:34 UTC
 <!--END_SECTION:waka-->
