@@ -29,47 +29,47 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   33 hrs 48 mins      █████████████████░░░░░░░░   66.12 % 
-TOML                     4 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Markdown                 4 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Bash                     2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-YAML                     2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Python                   33 hrs 38 mins      █████████████████░░░░░░░░   66.70 % 
+Markdown                 4 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+TOML                     3 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Bash                     2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Other                    1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 🔥 Editors: 
-Claude Code              34 hrs 41 mins      █████████████████░░░░░░░░   67.85 % 
-PyCharm                  13 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   26.43 % 
-Codex CLI                2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Opencode Cli             18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Claude Code              32 hrs 33 mins      ████████████████░░░░░░░░░   64.56 % 
+PyCharm                  13 hrs 1 min        ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+Codex CLI                4 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Opencode Cli             20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 GoLand                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Windows                  51 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  50 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 hrs (89.97%)
+⏱ AI Coding Time: 45 hrs 5 mins (89.4%)
 
-✍️ 27,944 lines written by AI, 1,058 lines written by hand (96.35% AI-written)
+✍️ 28,871 lines written by AI, 1,055 lines written by hand (96.47% AI-written)
 
-🔤 899,530,620 Input Tokens, 2,664,127 Output Tokens
+🔤 875,104,458 Input Tokens, 2,660,580 Output Tokens
 
-💵 $2707.63 Estimated AI Cost This Week
+💵 $2582.81 Estimated AI Cost This Week
 
-🧠 66 AI Sessions, 542 AI Prompts
+🧠 86 AI Sessions, 566 AI Prompts
 
-Opus                     15,448 lines        █████████████████████████   99.23 % 
-Sonnet                   100 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-GPT                      20 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Opus                     15,976 lines        █████████████████████████   99.03 % 
+Sonnet                   137 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+GPT                      20 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.35% of written lines came from AI
-📝 Concise Prompter — average 448 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 20.15% of changed lines were hand-edited
+🤖 AI-Driven — 96.47% of written lines came from AI
+📄 Detailed Prompter — average 912 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 19.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -85,5 +85,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-07-30 02:42:34 UTC
+ Last Updated on 2026-07-31 03:24:29 UTC
 <!--END_SECTION:waka-->
