@@ -17,9 +17,9 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-763%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-775%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-191%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-201%20hrs%2021%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-199.11%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -29,46 +29,46 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   33 hrs 1 min        ████████████████░░░░░░░░░   62.26 % 
-TOML                     5 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Markdown                 5 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Other                    2 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Bash                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Python                   30 hrs 35 mins      ███████████████░░░░░░░░░░   59.44 % 
+TOML                     5 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Markdown                 4 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Bash                     2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Other                    2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
 🔥 Editors: 
-Claude Code              35 hrs 45 mins      █████████████████░░░░░░░░   67.43 % 
-PyCharm                  12 hrs 29 mins      ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-Codex CLI                4 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Opencode Cli             20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Claude Code              32 hrs 38 mins      ████████████████░░░░░░░░░   63.44 % 
+PyCharm                  14 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+Codex CLI                4 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Opencode Cli             20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 Operating System: 
-Windows                  53 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  51 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 hrs 26 mins (89.44%)
+⏱ AI Coding Time: 44 hrs 16 mins (86.04%)
 
-✍️ 30,982 lines written by AI, 1,536 lines written by hand (95.28% AI-written)
+✍️ 20,046 lines written by AI, 1,663 lines written by hand (92.34% AI-written)
 
-🔤 1,233,666,286 Input Tokens, 3,345,769 Output Tokens
+🔤 981,107,089 Input Tokens, 2,661,076 Output Tokens
 
-💵 $1488.76 Estimated AI Cost This Week
+💵 $1107.29 Estimated AI Cost This Week
 
-🧠 85 AI Sessions, 633 AI Prompts
+🧠 88 AI Sessions, 615 AI Prompts
 
-Opus                     10,772 lines        █████████████████████████   99.15 % 
-Sonnet                   72 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-GPT                      20 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     9,802 lines         █████████████████████████   98.65 % 
+Sonnet                   102 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+GPT                      20 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Haiku                    12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.28% of written lines came from AI
-📄 Detailed Prompter — average 831 characters per prompt
+🤖 AI-Driven — 92.34% of written lines came from AI
+📄 Detailed Prompter — average 897 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 19.93% of changed lines were hand-edited
+🚀 High AI Trust — 28.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -84,5 +84,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-02 03:22:38 UTC
+ Last Updated on 2026-08-03 03:24:31 UTC
 <!--END_SECTION:waka-->
