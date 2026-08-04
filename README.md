@@ -17,11 +17,11 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-775%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-782%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-201%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-206%20hrs%2034%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-199.11%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-229.89%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -29,46 +29,46 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   30 hrs 35 mins      ███████████████░░░░░░░░░░   59.44 % 
-TOML                     5 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Markdown                 4 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Bash                     2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-Other                    2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Python                   26 hrs 21 mins      ███████████████░░░░░░░░░░   59.05 % 
+TOML                     4 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Markdown                 3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Other                    2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Bash                     2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 🔥 Editors: 
-Claude Code              32 hrs 38 mins      ████████████████░░░░░░░░░   63.44 % 
-PyCharm                  14 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   27.26 % 
-Codex CLI                4 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Opencode Cli             20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Claude Code              26 hrs 38 mins      ███████████████░░░░░░░░░░   59.69 % 
+PyCharm                  13 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   29.58 % 
+Codex CLI                4 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Opencode Cli             20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 💻 Operating System: 
-Windows                  51 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  44 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 44 hrs 16 mins (86.04%)
+⏱ AI Coding Time: 37 hrs 58 mins (85.1%)
 
-✍️ 20,046 lines written by AI, 1,663 lines written by hand (92.34% AI-written)
+✍️ 13,767 lines written by AI, 1,655 lines written by hand (89.27% AI-written)
 
-🔤 981,107,089 Input Tokens, 2,661,076 Output Tokens
+🔤 754,572,997 Input Tokens, 2,033,594 Output Tokens
 
-💵 $1107.29 Estimated AI Cost This Week
+💵 $694.11 Estimated AI Cost This Week
 
-🧠 88 AI Sessions, 615 AI Prompts
+🧠 85 AI Sessions, 573 AI Prompts
 
-Opus                     9,802 lines         █████████████████████████   98.65 % 
-Sonnet                   102 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-GPT                      20 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Haiku                    12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Opus                     6,624 lines         █████████████████████████   98.02 % 
+Sonnet                   102 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+GPT                      20 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Haiku                    12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.34% of written lines came from AI
-📄 Detailed Prompter — average 897 characters per prompt
+🤖 AI-Driven — 89.27% of written lines came from AI
+📄 Detailed Prompter — average 917 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 28.22% of changed lines were hand-edited
+🚀 High AI Trust — 36.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -84,5 +84,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-03 03:24:31 UTC
+ Last Updated on 2026-08-04 02:53:32 UTC
 <!--END_SECTION:waka-->
