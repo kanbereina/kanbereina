@@ -17,10 +17,6 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-782%20hrs%2053%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-207%20hrs-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-229.89%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -29,59 +25,57 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   17 hrs 34 mins      █████████████░░░░░░░░░░░░   53.41 % 
-TOML                     4 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Markdown                 3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Bash                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-.env file                1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Python                   12 hrs 21 mins      ████████████░░░░░░░░░░░░░   48.13 % 
+TOML                     3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Markdown                 2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Bash                     1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+.env file                1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 36 mins      ████████████████░░░░░░░░░   65.65 % 
-PyCharm                  9 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   28.50 % 
-Codex CLI                1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Opencode Cli             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Claude Code              17 hrs 45 mins      █████████████████░░░░░░░░   69.19 % 
+PyCharm                  7 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   30.81 % 
 
 💻 Operating System: 
-Windows                  32 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 4 mins (85.27%)
+⏱ AI Coding Time: 21 hrs 38 mins (84.29%)
 
-✍️ 11,447 lines written by AI, 995 lines written by hand (92.0% AI-written)
+✍️ 8,354 lines written by AI, 960 lines written by hand (89.69% AI-written)
 
-🔤 703,591,073 Input Tokens, 1,824,311 Output Tokens
+🔤 648,495,942 Input Tokens, 1,610,035 Output Tokens
 
-💵 $432.77 Estimated AI Cost This Week
+💵 $188.96 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 345 AI Prompts
+🧠 22 AI Sessions, 247 AI Prompts
 
-Opus                     3,997 lines         █████████████████████████   98.06 % 
-Sonnet                   67 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Haiku                    12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Opus                     945 lines           ████████████████████████░   95.74 % 
+Sonnet                   30 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Haiku                    12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.0% of written lines came from AI
-📄 Detailed Prompter — average 1,108 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 10.04% of changed lines were hand-edited
+🤖 AI-Driven — 89.69% of written lines came from AI
+📝 Concise Prompter — average 384 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 12.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   17 repos            ███████████████████░░░░░░   77.27 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Python                   17 repos            ██████████████████░░░░░░░   73.91 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
 
 
- Last Updated on 2026-08-06 02:53:24 UTC
+ Last Updated on 2026-08-07 02:51:22 UTC
 <!--END_SECTION:waka-->
