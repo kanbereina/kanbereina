@@ -29,43 +29,42 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 54 mins       ████████████░░░░░░░░░░░░░   49.77 % 
-TOML                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Bash                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-.env file                34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Python                   35 mins             █████████████████░░░░░░░░   67.73 % 
+HTML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+TOML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 3 mins        ████████████████░░░░░░░░░   64.35 % 
-PyCharm                  2 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   35.65 % 
+Claude Code              44 mins             █████████████████████░░░░   84.02 % 
+PyCharm                  8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
 
 💻 Operating System: 
-Windows                  7 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  52 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 57 mins (75.93%)
+⏱ AI Coding Time: 44 mins (84.4%)
 
-✍️ 1,414 lines written by AI, 129 lines written by hand (91.64% AI-written)
+✍️ 37 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 70,442,017 Input Tokens, 429,846 Output Tokens
+🔤 3,929,894 Input Tokens, 64,845 Output Tokens
 
-💵 $188.96 Estimated AI Cost This Week
+💵 $36.26 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 68 AI Prompts
+🧠 5 AI Sessions, 11 AI Prompts
 
-Opus                     945 lines           ████████████████████████░   95.74 % 
-Sonnet                   30 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-Haiku                    12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Opus                     113 lines           █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.64% of written lines came from AI
-📄 Detailed Prompter — average 688 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 16.25% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 23 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -81,5 +80,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-09 02:02:05 UTC
+ Last Updated on 2026-08-10 02:06:26 UTC
 <!--END_SECTION:waka-->
