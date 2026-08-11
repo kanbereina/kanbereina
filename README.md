@@ -29,42 +29,38 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   35 mins             █████████████████░░░░░░░░   67.73 % 
-HTML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-TOML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Python                   48 mins             ████████████████████░░░░░   81.50 % 
+JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+TOML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Claude Code              44 mins             █████████████████████░░░░   84.02 % 
-PyCharm                  8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Claude Code              38 mins             ████████████████░░░░░░░░░   65.37 % 
+PyCharm                  20 mins             █████████░░░░░░░░░░░░░░░░   34.63 % 
 
 💻 Operating System: 
-Windows                  52 mins             █████████████████████████   100.00 % 
+Windows                  58 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 44 mins (84.4%)
+⏱ AI Coding Time: 39 mins (66.97%)
 
-✍️ 37 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 37 lines written by AI, 21 lines written by hand (63.79% AI-written)
 
-🔤 3,929,894 Input Tokens, 64,845 Output Tokens
+🔤 3,520,869 Input Tokens, 54,922 Output Tokens
 
-💵 $36.26 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 11 AI Prompts
-
-Opus                     113 lines           █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🧠 3 AI Sessions, 7 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
+⚖️ Balanced with AI — 63.79% of written lines came from AI
 📝 Concise Prompter — average 23 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 36.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -80,5 +76,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-10 02:06:26 UTC
+ Last Updated on 2026-08-11 02:01:38 UTC
 <!--END_SECTION:waka-->
