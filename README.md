@@ -17,7 +17,7 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-783%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-783%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-207%20hrs%2019%20mins-blue?style=flat)
 
@@ -29,38 +29,38 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   48 mins             ████████████████████░░░░░   81.50 % 
-JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-TOML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   31 mins             ████████████████████░░░░░   82.00 % 
+JSON                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Claude Code              38 mins             ████████████████░░░░░░░░░   65.37 % 
-PyCharm                  20 mins             █████████░░░░░░░░░░░░░░░░   34.63 % 
+PyCharm                  19 mins             █████████████░░░░░░░░░░░░   50.84 % 
+Claude Code              18 mins             ████████████░░░░░░░░░░░░░   49.16 % 
 
 💻 Operating System: 
-Windows                  58 mins             █████████████████████████   100.00 % 
+Windows                  38 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 mins (66.97%)
+⏱ AI Coding Time: 18 mins (49.16%)
 
-✍️ 37 lines written by AI, 21 lines written by hand (63.79% AI-written)
+✍️ 0 lines written by AI, 21 lines written by hand (0.0% AI-written)
 
-🔤 3,520,869 Input Tokens, 54,922 Output Tokens
+🔤 1,755,702 Input Tokens, 37,239 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 7 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 63.79% of written lines came from AI
-📝 Concise Prompter — average 23 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 36.21% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 41 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -76,5 +76,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-11 02:01:38 UTC
+ Last Updated on 2026-08-12 02:15:44 UTC
 <!--END_SECTION:waka-->
