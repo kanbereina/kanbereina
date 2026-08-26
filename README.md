@@ -21,7 +21,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-251%20hrs%2040%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-244.88%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-244.84%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -29,58 +29,58 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 35 mins       █████████████░░░░░░░░░░░░   51.82 % 
-Markdown                 2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-Other                    2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-YAML                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-TOML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Python                   9 hrs 45 mins       ████████████░░░░░░░░░░░░░   46.94 % 
+Markdown                 3 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+Other                    2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+TOML                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+YAML                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 48 mins      ███████████████░░░░░░░░░░   58.35 % 
-PyCharm                  7 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   41.65 % 
+Claude Code              12 hrs 22 mins      ███████████████░░░░░░░░░░   59.50 % 
+PyCharm                  8 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   40.50 % 
 
 💻 Operating System: 
-Windows                  18 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 50 mins (90.97%)
+⏱ AI Coding Time: 18 hrs 33 mins (89.22%)
 
-✍️ 4,849 lines written by AI, 3,377 lines written by hand (58.95% AI-written)
+✍️ 5,359 lines written by AI, 3,422 lines written by hand (61.03% AI-written)
 
-🔤 160,581,419 Input Tokens, 942,762 Output Tokens
+🔤 160,983,477 Input Tokens, 1,006,899 Output Tokens
 
-💵 $1283.99 Estimated AI Cost This Week
+💵 $1290.95 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 115 AI Prompts
+🧠 14 AI Sessions, 134 AI Prompts
 
-Opus                     6,112 lines         ███████████████████████░░   92.80 % 
-Sonnet                   474 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Opus                     6,640 lines         ███████████████████████░░   93.34 % 
+Sonnet                   474 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 58.95% of written lines came from AI
-📄 Detailed Prompter — average 868 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 34.15% of changed lines were hand-edited
+⚖️ Balanced with AI — 61.03% of written lines came from AI
+📄 Detailed Prompter — average 788 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 33.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   21 repos            ███████████████████░░░░░░   77.78 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Python                   22 repos            ████████████████████░░░░░   78.57 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
 
 
- Last Updated on 2026-08-25 01:27:35 UTC
+ Last Updated on 2026-08-26 01:37:50 UTC
 <!--END_SECTION:waka-->
