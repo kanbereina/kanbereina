@@ -21,7 +21,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-263%20hrs%2052%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-244.81%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-244.88%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -29,32 +29,32 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   32.35 % 
-Markdown                 6 hrs               ████████░░░░░░░░░░░░░░░░░   31.34 % 
-Other                    1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-TOML                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Docker                   1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Markdown                 5 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   37.19 % 
+Python                   4 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   30.64 % 
+TOML                     1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Docker                   1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+YAML                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 24 mins      ███████████████░░░░░░░░░░   59.54 % 
-PyCharm                  7 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   40.46 % 
+Claude Code              11 hrs 24 mins      ███████████████████░░░░░░   75.66 % 
+PyCharm                  3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
 
 💻 Operating System: 
-Windows                  19 hrs 10 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 15 mins (90.0%)
+⏱ AI Coding Time: 13 hrs 45 mins (91.23%)
 
-✍️ 5,436 lines written by AI, 3,173 lines written by hand (63.14% AI-written)
+✍️ 5,436 lines written by AI, 1,583 lines written by hand (77.45% AI-written)
 
-🔤 157,426,198 Input Tokens, 998,545 Output Tokens
+🔤 71,033,718 Input Tokens, 671,095 Output Tokens
 
-💵 $1275.38 Estimated AI Cost This Week
+💵 $742.02 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 76 AI Prompts
+🧠 11 AI Sessions, 76 AI Prompts
 
 Opus                     5,612 lines         █████████████████████████   99.91 % 
 Sonnet                   5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
@@ -63,10 +63,10 @@ ZCode                    0 lines             ░░░░░░░░░░░�
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 63.14% of written lines came from AI
+🤖 AI-Driven — 77.45% of written lines came from AI
 📝 Concise Prompter — average 111 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 36.87% of changed lines were hand-edited
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 23.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -82,5 +82,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-29 06:28:01 UTC
+ Last Updated on 2026-08-30 04:38:55 UTC
 <!--END_SECTION:waka-->
