@@ -29,42 +29,42 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   35.19 % 
-Markdown                 4 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   34.55 % 
-TOML                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Docker                   1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-YAML                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Python                   6 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   40.31 % 
+Markdown                 4 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   31.63 % 
+TOML                     1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Docker                   1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+YAML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 31 mins      █████████████████████░░░░   83.70 % 
-PyCharm                  2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Claude Code              12 hrs 36 mins      █████████████████████░░░░   83.77 % 
+PyCharm                  2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
 
 💻 Operating System: 
-Windows                  13 hrs 46 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 48 mins (92.98%)
+⏱ AI Coding Time: 13 hrs 58 mins (92.76%)
 
-✍️ 6,181 lines written by AI, 47 lines written by hand (99.25% AI-written)
+✍️ 6,399 lines written by AI, 47 lines written by hand (99.27% AI-written)
 
-🔤 18,193,555 Input Tokens, 463,212 Output Tokens
+🔤 18,533,593 Input Tokens, 563,663 Output Tokens
 
-💵 $201.84 Estimated AI Cost This Week
+💵 $202.14 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 76 AI Prompts
+🧠 7 AI Sessions, 88 AI Prompts
 
 Opus                     6,340 lines         █████████████████████████   100.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.25% of written lines came from AI
-📝 Concise Prompter — average 110 characters per prompt
+🤖 AI-Driven — 99.27% of written lines came from AI
+📚 Verbose Prompter — average 1,967 characters per prompt
 🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 2.15% of changed lines were hand-edited
+🚀 High AI Trust — 2.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -80,5 +80,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-31 04:43:19 UTC
+ Last Updated on 2026-09-01 04:23:48 UTC
 <!--END_SECTION:waka-->
