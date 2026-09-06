@@ -21,7 +21,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-265%20hrs%202%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-244.88%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-244.93%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -29,47 +29,49 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 13 mins        ████████████████████████░   95.20 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Python                   7 hrs 55 mins       ███████████████████████░░   93.80 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+TOML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Claude Code              1 hr 5 mins         █████████████████████░░░░   84.58 % 
-PyCharm                  11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+PyCharm                  7 hrs 9 mins        █████████████████████░░░░   84.79 % 
+Claude Code              1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
 
 💻 Operating System: 
-Windows                  1 hr 17 mins        █████████████████████████   100.00 % 
+Windows                  8 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 9 mins (90.38%)
+⏱ AI Coding Time: 8 hrs 18 mins (98.34%)
 
-✍️ 218 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 222 lines written by AI, 1 lines written by hand (99.55% AI-written)
 
-🔤 340,038 Input Tokens, 100,451 Output Tokens
+🔤 367,482,034 Input Tokens, 827,469 Output Tokens
 
-💵 $0.30 Estimated AI Cost This Week
+💵 $2198.13 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 12 AI Prompts
+🧠 3 AI Sessions, 14 AI Prompts
 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 13,722 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.55% of written lines came from AI
+📚 Verbose Prompter — average 11,773 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.35% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   22 repos            ████████████████████░░░░░   78.57 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Python                   21 repos            ███████████████████░░░░░░   75.00 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
 CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
@@ -78,5 +80,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-05 03:46:15 UTC
+ Last Updated on 2026-09-06 03:49:17 UTC
 <!--END_SECTION:waka-->
