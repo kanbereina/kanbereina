@@ -17,9 +17,9 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-859%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-861%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-280%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-282%20hrs%2021%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-245.11%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -29,44 +29,43 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   37.93 % 
-Docker                   1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Markdown                 1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-TOML                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-YAML                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Python                   2 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   30.25 % 
+Docker                   1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+Markdown                 1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+YAML                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+TOML                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 20 mins       ███████████████████░░░░░░   76.01 % 
-PyCharm                  2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-WebStorm                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Claude Code              8 hrs 5 mins        █████████████████████░░░░   85.80 % 
+PyCharm                  1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+WebStorm                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 💻 Operating System: 
-Windows                  10 hrs 57 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 39 mins (97.18%)
+⏱ AI Coding Time: 9 hrs 7 mins (96.85%)
 
-✍️ 2,489 lines written by AI, 1 lines written by hand (99.96% AI-written)
+✍️ 2,472 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 82,733,847 Input Tokens, 1,236,973 Output Tokens
+🔤 3,693,164 Input Tokens, 1,138,428 Output Tokens
 
-💵 $456.70 Estimated AI Cost This Week
+💵 $41.65 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 104 AI Prompts
+🧠 12 AI Sessions, 100 AI Prompts
 
 Deepseek                 710 lines           █████████████████████████   100.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📝 Concise Prompter — average 76 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 79 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -82,5 +81,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-13 04:04:25 UTC
+ Last Updated on 2026-09-14 04:12:31 UTC
 <!--END_SECTION:waka-->
