@@ -29,43 +29,43 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Docker                   1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   27.08 % 
-Vue                      1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Markdown                 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Python                   27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-TOML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Docker                   1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+Vue                      1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Markdown                 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Python                   27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+TOML                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 14 mins       ████████████████░░░░░░░░░   64.19 % 
-WebStorm                 1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-PyCharm                  39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Claude Code              4 hrs 14 mins       █████████████████░░░░░░░░   68.78 % 
+WebStorm                 1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+PyCharm                  30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
 
 💻 Operating System: 
-Windows                  6 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 42 mins (86.46%)
+⏱ AI Coding Time: 5 hrs 25 mins (87.85%)
 
-✍️ 1,446 lines written by AI, 23 lines written by hand (98.43% AI-written)
+✍️ 759 lines written by AI, 23 lines written by hand (97.06% AI-written)
 
-🔤 3,579,812 Input Tokens, 595,766 Output Tokens
+🔤 3,462,637 Input Tokens, 550,025 Output Tokens
 
-💵 $51.72 Estimated AI Cost This Week
+💵 $36.20 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 77 AI Prompts
+🧠 9 AI Sessions, 72 AI Prompts
 
-Deepseek                 710 lines           █████████████████████████   100.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.43% of written lines came from AI
-📝 Concise Prompter — average 63 characters per prompt
+🤖 AI-Driven — 97.06% of written lines came from AI
+📝 Concise Prompter — average 56 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 1.87% of changed lines were hand-edited
+🚀 High AI Trust — 3.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -81,5 +81,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-16 04:08:10 UTC
+ Last Updated on 2026-09-17 04:15:28 UTC
 <!--END_SECTION:waka-->
