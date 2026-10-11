@@ -29,40 +29,40 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 15 mins       █████████████░░░░░░░░░░░░   53.94 % 
-TOML                     2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Markdown                 2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Bash                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Image (svg)              1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Python                   2 hrs 55 mins       ███████████░░░░░░░░░░░░░░   42.50 % 
+Image (svg)              1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+TOML                     1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Bash                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 9 mins       ███████████████████░░░░░░   76.69 % 
-PyCharm                  3 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+Claude Code              5 hrs 5 mins        ██████████████████░░░░░░░   73.88 % 
+PyCharm                  1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   26.12 % 
 
 💻 Operating System: 
-Windows                  17 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 8 mins (88.26%)
+⏱ AI Coding Time: 5 hrs 45 mins (83.55%)
 
-✍️ 10,272 lines written by AI, 303 lines written by hand (97.13% AI-written)
+✍️ 2,286 lines written by AI, 251 lines written by hand (90.11% AI-written)
 
-🔤 6,198,923 Input Tokens, 1,874,308 Output Tokens
+🔤 2,119,847 Input Tokens, 604,998 Output Tokens
 
-💵 $12.55 Estimated AI Cost This Week
+💵 $12.31 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 151 AI Prompts
+🧠 9 AI Sessions, 57 AI Prompts
 
 Opus                     1,054 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.13% of written lines came from AI
-📚 Verbose Prompter — average 2,838 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🔍 Hands-On Reviewer — 80.23% of changed lines were hand-edited
+🤖 AI-Driven — 90.11% of written lines came from AI
+📚 Verbose Prompter — average 4,907 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 94.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -78,5 +78,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-10 05:09:36 UTC
+ Last Updated on 2026-10-11 04:59:36 UTC
 <!--END_SECTION:waka-->
