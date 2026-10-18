@@ -29,39 +29,39 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   32 mins             ████████░░░░░░░░░░░░░░░░░   33.40 % 
-Go                       31 mins             ████████░░░░░░░░░░░░░░░░░   32.44 % 
-Markdown                 19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Python                   1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   31.37 % 
+TOML                     1 hr                ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+Go                       31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 
 🔥 Editors: 
-Claude Code              49 mins             █████████████░░░░░░░░░░░░   50.51 % 
-PyCharm                  33 mins             █████████░░░░░░░░░░░░░░░░   34.41 % 
-GoLand                   14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Claude Code              1 hr 59 mins        ███████████████░░░░░░░░░░   58.76 % 
+PyCharm                  1 hr 9 mins         █████████░░░░░░░░░░░░░░░░   34.02 % 
+GoLand                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
 
 💻 Operating System: 
-Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 mins (55.34%)
+⏱ AI Coding Time: 2 hrs 24 mins (71.36%)
 
-✍️ 4,415 lines written by AI, 29 lines written by hand (99.35% AI-written)
+✍️ 4,601 lines written by AI, 86 lines written by hand (98.17% AI-written)
 
-🔤 130,513 Input Tokens, 235,258 Output Tokens
+🔤 307,264 Input Tokens, 406,751 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 16 AI Prompts
+🧠 3 AI Sessions, 41 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.35% of written lines came from AI
-📄 Detailed Prompter — average 603 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 1.13% of changed lines were hand-edited
+🤖 AI-Driven — 98.17% of written lines came from AI
+📝 Concise Prompter — average 330 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 3.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -77,5 +77,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-17 03:44:18 UTC
+ Last Updated on 2026-10-18 03:50:36 UTC
 <!--END_SECTION:waka-->
