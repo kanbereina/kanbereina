@@ -17,11 +17,7 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-900%20hrs%201%20min-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-315%20hrs-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-246.45%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-246.00%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -29,52 +25,55 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 16 mins        ████████████████████░░░░░   80.95 % 
-Markdown                 14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Python                   3 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+Markdown                 2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+HTML                     2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Vue                      1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+TOML                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 17 mins        ████████████████████░░░░░   81.95 % 
-Claude Code              17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Claude Code              11 hrs 33 mins      █████████████████████░░░░   85.79 % 
+PyCharm                  1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+WebStorm                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 
 💻 Operating System: 
-Windows                  1 hr 34 mins        █████████████████████████   100.00 % 
+Windows                  13 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 mins (26.52%)
+⏱ AI Coding Time: 12 hrs 52 mins (95.45%)
 
-✍️ 713 lines written by AI, 72 lines written by hand (90.83% AI-written)
+✍️ 16,031 lines written by AI, 13 lines written by hand (99.92% AI-written)
 
-🔤 50,140 Input Tokens, 34,210 Output Tokens
+🔤 17,718,855 Input Tokens, 550,497 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $60.02 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 9 AI Prompts
+🧠 6 AI Sessions, 154 AI Prompts
+
+Gemini                   15,251 lines        ████████████████████████░   94.29 % 
+Opus                     924 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.83% of written lines came from AI
-📝 Concise Prompter — average 329 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 9.29% of changed lines were hand-edited
+🤖 AI-Driven — 99.92% of written lines came from AI
+📄 Detailed Prompter — average 1,163 characters per prompt
+🔁 Iterative Prompter — average 26 prompts per session
+🚀 High AI Trust — 1.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   22 repos            ███████████████████░░░░░░   75.86 % 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Python                   25 repos            ████████████████████░░░░░   80.65 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
 
 
- Last Updated on 2026-11-01 05:16:35 UTC
+ Last Updated on 2026-11-23 01:15:39 UTC
 <!--END_SECTION:waka-->
