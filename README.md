@@ -17,6 +17,10 @@
 ##
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-934%20hrs%2036%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-348%20hrs%2019%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-246.00%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -75,5 +79,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-11-23 01:15:39 UTC
+ Last Updated on 2026-11-23 06:42:34 UTC
 <!--END_SECTION:waka-->
