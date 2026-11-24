@@ -29,42 +29,42 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   28.85 % 
-Markdown                 2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-HTML                     2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Vue                      1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-TOML                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Python                   4 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.35 % 
+Markdown                 2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+HTML                     2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+TOML                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Vue                      1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 33 mins      █████████████████████░░░░   85.79 % 
-PyCharm                  1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-WebStorm                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Claude Code              13 hrs 20 mins      ██████████████████████░░░   87.16 % 
+PyCharm                  1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+WebStorm                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 💻 Operating System: 
-Windows                  13 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 52 mins (95.45%)
+⏱ AI Coding Time: 14 hrs 38 mins (95.72%)
 
-✍️ 16,031 lines written by AI, 13 lines written by hand (99.92% AI-written)
+✍️ 19,251 lines written by AI, 13 lines written by hand (99.93% AI-written)
 
-🔤 17,718,855 Input Tokens, 550,497 Output Tokens
+🔤 18,565,505 Input Tokens, 612,595 Output Tokens
 
-💵 $60.02 Estimated AI Cost This Week
+💵 $64.99 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 154 AI Prompts
+🧠 7 AI Sessions, 164 AI Prompts
 
-Gemini                   15,251 lines        ████████████████████████░   94.29 % 
-Opus                     924 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Gemini                   18,492 lines        ████████████████████████░   95.24 % 
+Opus                     924 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.92% of written lines came from AI
-📄 Detailed Prompter — average 1,163 characters per prompt
-🔁 Iterative Prompter — average 26 prompts per session
-🚀 High AI Trust — 1.16% of changed lines were hand-edited
+🤖 AI-Driven — 99.93% of written lines came from AI
+📄 Detailed Prompter — average 1,197 characters per prompt
+🔁 Iterative Prompter — average 23 prompts per session
+🚀 High AI Trust — 0.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -79,5 +79,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-11-23 06:42:34 UTC
+ Last Updated on 2026-11-24 09:10:49 UTC
 <!--END_SECTION:waka-->
